@@ -1,0 +1,23 @@
+{
+  "name": "vue-image-viewer",
+  "version": "1.0.0",
+  "description": "这是一个功能丰富、体验优秀的 vue 图片预览插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluedd2011/vue-image-viewer.git"
+  },
+  "keywords": [
+    "vue",
+    "image-viewer"
+  ],
+  "author": "bluedd2011",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluedd2011/vue-image-viewer/issues"
+  },
+  "homepage": "https://github.com/bluedd2011/vue-image-viewer#readme"
+}
